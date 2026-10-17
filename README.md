@@ -96,7 +96,7 @@ The latest verified training run selected Random Forest by mean 5-fold training 
 
 ## Responsible use
 ![Responsible use]
-<img width="1917" height="907" alt="Responsible" src="https://github.com/user-attachments/assets/2ef494c5-0687-453f-8fcb-0cd55dc16875" />
+<img width="1912" height="907" alt="Responsible" src="https://github.com/user-attachments/assets/f8e749e5-bc2f-4cbb-9158-21563ff8ed7b" />
 
 
 ## Data, limitations, and responsible use
