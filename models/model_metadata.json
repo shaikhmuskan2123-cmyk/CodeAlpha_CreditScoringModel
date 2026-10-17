@@ -1,0 +1,22 @@
+{
+  "selected_model": "random_forest",
+  "selection_metric": "mean_stratified_5_fold_roc_auc",
+  "cross_validation": {
+    "roc_auc_mean": 0.7911644345238095,
+    "roc_auc_std": 0.033980541533536746,
+    "cv_scores": [
+      0.8218005952380952,
+      0.7985491071428571,
+      0.7818080357142857,
+      0.7305617559523809,
+      0.8231026785714286
+    ]
+  },
+  "training_rows": 800,
+  "heldout_rows": 200,
+  "feature_count": 20,
+  "target_mapping": {
+    "good_credit": 0,
+    "bad_credit": 1
+  }
+}
