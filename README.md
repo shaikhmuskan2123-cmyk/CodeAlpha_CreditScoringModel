@@ -64,6 +64,40 @@ The latest verified training run selected Random Forest by mean 5-fold training 
 ```powershell
 .\.venv\Scripts\python.exe -m pytest
 ```
+## Screenshots
+
+### Dashboard
+![overview]
+<img width="1912" height="913" alt="overview 1" src="https://github.com/user-attachments/assets/2bc93705-9187-45d8-b4e4-73c8041f3b1b" />
+<img width="1917" height="902" alt="overview 2" src="https://github.com/user-attachments/assets/5ea2e950-ff78-4b4c-b13c-7b5e897bb19f" />
+<img width="1911" height="905" alt="overview 3" src="https://github.com/user-attachments/assets/e865b551-4658-4d35-8225-9102e2239376" />
+
+### Credit Risk Prediction
+![Prediction]
+<img width="1910" height="902" alt="Prediction 1" src="https://github.com/user-attachments/assets/cc3c1d77-4e28-4f25-a19e-d8fbf20affdf" />
+<img width="1917" height="913" alt="Prediction 2" src="https://github.com/user-attachments/assets/17190e91-7bef-4f3c-a314-ab97a3f6face" />
+<img width="1917" height="907" alt="Prediction 3" src="https://github.com/user-attachments/assets/6d20738e-3e5e-4374-ac2c-0afa69acc73a" />
+
+### Dataset Explorer
+![Dataset Explorer]
+<img width="1917" height="902" alt="Dataset 1" src="https://github.com/user-attachments/assets/d611fa25-0124-4547-9aba-55c044997a85" />
+<img width="1917" height="912" alt="Dataset 2" src="https://github.com/user-attachments/assets/5934c913-1702-40d5-b6f1-858588b30f59" />
+
+### Model Performance
+![Model Performance]
+<img width="1917" height="902" alt="Performance 1" src="https://github.com/user-attachments/assets/256855ff-b990-47d3-8599-429eef4299b1" />
+<img width="1917" height="907" alt="Performance 2" src="https://github.com/user-attachments/assets/8d8cb401-22f9-48cf-aa99-d7b256c4039f" />
+<img width="1915" height="902" alt="Performance 3" src="https://github.com/user-attachments/assets/1cd37753-4f28-4d0b-b7ae-aa46c804ed3d" />
+<img width="1917" height="906" alt="Performance 4" src="https://github.com/user-attachments/assets/1e7733ea-513b-4af7-b334-6bb5908397dd" />
+
+### Batch Prediction
+![Batch Prediction]
+<img width="1912" height="903" alt="Batch scoring" src="https://github.com/user-attachments/assets/24bfdfa1-a858-427b-95f1-206d6c4afb44" />
+
+## Responsible use
+![Responsible use]
+<img width="1917" height="907" alt="Responsible" src="https://github.com/user-attachments/assets/2ef494c5-0687-453f-8fcb-0cd55dc16875" />
+
 
 ## Data, limitations, and responsible use
 
